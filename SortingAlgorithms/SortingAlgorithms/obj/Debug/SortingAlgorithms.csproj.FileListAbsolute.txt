@@ -1,0 +1,7 @@
+C:\Users\axelk_000\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\axelk_000\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\axelk_000\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\axelk_000\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Users\axelk_000\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Users\axelk_000\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Users\axelk_000\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
